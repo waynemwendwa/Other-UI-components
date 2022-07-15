@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Components</string>
+    <string name="start_stop">Start/stop</string>
+    <string name="scrolling">scrolling</string>
+</resources>
